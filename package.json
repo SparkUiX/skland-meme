@@ -1,0 +1,32 @@
+{
+  "name": "koishi-plugin-skland-meme",
+  "description": "获取[森空岛](https://www.skland.com/)表情包与头像等资源，可选随机或指定序号",
+  "version": "1.1.2",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "contributors": [
+    "SparkUiX <thoe9008@outlook.com>"
+  ],
+  "homepage": "https://github.com/SparkUiX/skland-meme",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "skland",
+    "森空岛",
+    "表情包",
+    "emoji",
+    "明日方舟",
+    "Arknights",
+    "头像",
+    "avatar"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.17.2"
+  }
+}
